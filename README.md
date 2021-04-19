@@ -1,1 +1,1 @@
-# Plinko-game-1
+# Plinko-game
